@@ -1,1 +1,1 @@
-hide-file.txt.txt
+hide-file.txt
